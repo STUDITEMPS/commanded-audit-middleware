@@ -52,7 +52,7 @@ defmodule Commanded.Middleware.Auditing.Mixfile do
       {:elixir_uuid, "~> 1.2"},
       {:ex_doc, "~> 0.19", only: :dev},
       {:jason, "~> 1.1"},
-      {:postgrex, "~> 0.14.0"}
+      {:postgrex, "~> 0.14"}
     ]
   end
 
